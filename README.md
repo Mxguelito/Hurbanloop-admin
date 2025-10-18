@@ -6,7 +6,7 @@
 
 🌙 **Modo oscuro / claro**, 🌐 multiidioma ES/EN, 💾 configuración persistente y 🔐 seguridad JWT.
   
-![UrbanLoop Preview](https://github.com/Mxguelito/Hurbanloop-admin/assets/preview-admin.png)
+
 
 ---
 
