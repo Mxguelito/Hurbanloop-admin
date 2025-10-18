@@ -1,0 +1,15 @@
+{
+  "dashboard": "Dashboard",
+  "users": "Users",
+  "consorcios": "Condominiums",
+  "finanzas": "Finance",
+  "reclamos": "Claims",
+  "configuracion": "Settings",
+  "theme_dark": "Dark",
+  "theme_light": "Light",
+  "language": "Language",
+  "animations": "Animations",
+  "save_changes": "Save Changes",
+  "system_config": "System Configuration",
+  "welcome": "Welcome to the Urbanloop administration system"
+}

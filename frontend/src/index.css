@@ -1,0 +1,16 @@
+@import "tailwindcss";
+:root {
+  --bg-primary: #0a0c12;
+  --bg-secondary: #10131c;
+  --bg-card: #171b26;
+  --text-primary: #f4f4f5;
+  --text-secondary: #9ca3af;
+  --accent: #a855f7;
+  --accent-soft: #c084fc;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}

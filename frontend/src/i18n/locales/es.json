@@ -1,0 +1,15 @@
+{
+  "dashboard": "Panel de Control",
+  "users": "Usuarios",
+  "consorcios": "Consorcios",
+  "finanzas": "Finanzas",
+  "reclamos": "Reclamos",
+  "configuracion": "Configuración",
+  "theme_dark": "Oscuro",
+  "theme_light": "Claro",
+  "language": "Idioma",
+  "animations": "Animaciones",
+  "save_changes": "Guardar Cambios",
+  "system_config": "Configuración del Sistema",
+  "welcome": "Bienvenido al sistema de administración Urbanloop"
+}
